@@ -46,3 +46,7 @@ For Course IDs as they are sorted in chronological order when the course was sub
 40000000 X3VJCN78G Future  
   
 Maker IDs are also in chronological order of when the ID became registered to a user but it is less obvious to find out where a user is other than guessing.
+  
+While Maker IDs start at index 1, for some reason course IDs start in the 3,000,000s.  
+  
+Included is also a Java Program that can be used to quickly convert back and forth between an in-game ID and actual index.  
