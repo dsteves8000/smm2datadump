@@ -1,7 +1,7 @@
 # smm2datadump
 Every single Maker ID and Course ID out there plus some future ones that haven't been assigned to to-be-new players or courses yet (each text file contains one million IDs), includes IDs that also have been for deleted courses. 
 
-For Course IDs:
+For Course IDs:  
 0 L1J3KX48G --  
 1000000 S2KVLNV8G --  
 2000000 1XG3VTS8G --  
