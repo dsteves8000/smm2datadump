@@ -1,7 +1,8 @@
 # smm2datadump
 Every single Maker ID and Course ID out there plus some future ones that haven't been assigned to to-be-new players or courses yet (each text file contains one million IDs), includes IDs that also have been for deleted courses. 
-
-For Course IDs:  
+  
+For Course IDs as they are sorted in chronological order when the course was submitted you can find the file that has the course ID you are looking for by searching for the file by date. For example, all courses in the 3,xxx,xxxth index are between 6/27/19 and 7/2/19: 
+  
 0 L1J3KX48G --  
 1000000 S2KVLNV8G --  
 2000000 1XG3VTS8G --  
@@ -43,3 +44,5 @@ For Course IDs:
 38000000 BTW1PC88G Future  
 39000000 P8X94H98G Future  
 40000000 X3VJCN78G Future  
+  
+Maker IDs are also in chronological order of when the ID became registered to a user but it is less obvious to find out where a user is other than guessing.
