@@ -50,7 +50,7 @@ Maker IDs are also in chronological order of when the ID became registered to a 
   
 Maker IDs 
 0 N4T3KX48G 6/27/19 (First known maker in the game chronologically)   
-1000000 V5VVLNV8G 6/29/19 
+1000000 V5VVLNV8G 6/29/19  
 2000000 31S3VTS8G 7/4/19  
 3000000 6JC5X0R8G 7/14/19  
 4000000 P9QLJ4S8G 8/2/19  
