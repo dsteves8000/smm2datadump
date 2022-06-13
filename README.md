@@ -2,7 +2,8 @@
 Every single Maker ID and Course ID out there plus some future ones that haven't been assigned to to-be-new players or courses yet (each text file contains one million IDs), includes IDs that also have been for deleted courses. 
   
 For Course IDs as they are sorted in chronological order when the course was submitted you can find the file that has the course ID you are looking for by searching for the file by date. For example, all courses in the 3,xxx,xxxth index are between 6/27/19 and 7/2/19: 
-  
+
+Course IDs  
 0 L1J3KX48G --  
 1000000 S2KVLNV8G --  
 2000000 1XG3VTS8G --  
@@ -43,9 +44,34 @@ For Course IDs as they are sorted in chronological order when the course was sub
 37000000 300TF6B8G 3/31/22  
 38000000 BTW1PC88G 5/20/22  
 39000000 P8X94H98G Future  
-40000000 X3VJCN78G Future  
+40000000 X3VJCN78G Future
   
-Maker IDs are also in chronological order of when the ID became registered to a user but it is less obvious to find out where a user is other than guessing.
+Maker IDs are also in chronological order of when the ID became registered to a user. 
+  
+Maker IDs 
+0 L1J3KX48G 6/27/19 (First known maker in the game chronologically) 
+1000000 S2KVLNV8G 6/29/19  
+2000000 1XG3VTS8G 7/4/19  
+3000000 4RFXV8WCG 7/14/19  
+4000000 M6FLJ4S8G 8/2/19  
+5000000 QP0NL9Q8G 9/6/19  
+6000000 YJXVTGN8G 11/30/19  
+7000000 LJMDWR5BG 1/5/20  
+8000000 KTVCJRM8G 3/14/20  
+9000000 4BGFLXK8G 5/3/20  
+10000000 C5DNT3J8G 7/5/20  
+11000000 GNYPW8G8G 9/30/20  
+12000000 YFB5JDH8G 12/27/20  
+13000000 2YW6LKF8G 2/26/21  
+14000000 KJW5T959G 5/19/21  
+15000000 VNC3VJ98G 9/11/21  
+16000000 CGQJGNB8G 1/7/22  
+17000000 00BLJT88G 5/3/22  
+18000000 HK9KRK09G Future  
+19000000 BBTVT558G Future  
+20000000 T36BG968G Future  
+  
+Maker IDs are also in chronological order of when the ID became registered to a user.
   
 While Maker IDs start at index 1, for some reason course IDs start in the 3,000,000s.  
   
